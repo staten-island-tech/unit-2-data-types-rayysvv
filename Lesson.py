@@ -22,7 +22,7 @@ tip = tip_mapping.get(bill, "Invalid input")
 print(f"Your tip is {tip} please") """
 
 #Challenge 350
-""" number1 = int(input("Enter a number: "))
+number1 = int(input("Enter a number: "))
 
 def find_factors(number1):
     factors = []
@@ -32,7 +32,7 @@ def find_factors(number1):
     return factors
 
 factors = find_factors(number1)
-print(f"The factors of {number1} are: {factors}") """
+print(f"The factors of {number1} are: {factors}")
 
 #Challenge 4
 """ number1 = int(input("Enter a number: "))
